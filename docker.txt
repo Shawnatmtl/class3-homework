@@ -1,0 +1,3 @@
+docker is a fast deploy tool, which is SAAS and PAAS .
+It offers groups of enviroment/software dependencies.
+containers is the unit functional docker.
